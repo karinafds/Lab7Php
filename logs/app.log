@@ -1,0 +1,2 @@
+[2024-10-29T01:59:35.002051+01:00] myLogger.INFO: This is an info log [] []
+[2024-10-29T01:59:35.026219+01:00] myLogger.ERROR: This is an error log [] []
